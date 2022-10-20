@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\prueba\\backend\\Prueba\\Prueba.csproj": {}
+    "C:\\projects\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\prueba\\backend\\Prueba\\Prueba.csproj": {
+    "C:\\projects\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\prueba\\backend\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\projects\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\prueba\\backend\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\projects\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\prueba\\backend\\Prueba\\obj\\",
+        "outputPath": "C:\\projects\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
